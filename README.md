@@ -76,11 +76,12 @@ There are two types of statistical hypothesis to consider:
 
 ### Type of Statistical test
 There are many types of statistical testing. However, the most common types of statistic would be One and Two sample t-test. However, you should consider statistical test type according to data type. For instance, if you would like to have like to present chart with scatter plot single linear regression will be the one to go with. For our purpose we would use multiple linear regression. 
-• One-sample t-test
-• Two-sample t-test
-• ANOVA
-• Simple linear regression/ Multiple linear regression
-• Chi-squared
+
+ - One-sample t-test
+ - Two-sample t-test
+ - ANOVA
+ - Simple linear regression/ Multiple linear regression
+ - Chi-squared
 
 ### Data requirement
 To complete this statistical test, we will need to gather data of metrics we choose as well as similar data metrics with competitors’ prototypes. 
