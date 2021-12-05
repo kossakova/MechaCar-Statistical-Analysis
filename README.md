@@ -75,7 +75,7 @@ There are two types of statistical hypothesis to consider:
 
 
 ### Type of Statistical test
-There are many types of statistical testing. However, the most common types of statistic would be One and Two sample t-test. However, you should consider statistical test type according to data type. For instance, if you would like to have like to present chart with scatter plot single linear regression will be the one to go with. For our purpose we would use multiple linear regression. 
+There are many types of statistical testing. However, the most common types of statistic would be One and Two sample t-test. However, you should consider statistical test type according to data type. For instance, if you would like to have like to present chart with scatter plot single linear regression will be the one to go with. For our purpose we would use multiple linear regression to determine which variables have the greatest impact on vehicle cost.
 
  - One-sample t-test
  - Two-sample t-test
